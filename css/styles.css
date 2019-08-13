@@ -1,0 +1,15 @@
+.flashcard {
+  text-align: center;
+  border-style: solid;
+  width: 500px;
+  height: 300px;
+}
+
+
+.definition {
+  display: none;
+}
+
+.show-hide {
+  display: block;
+}
